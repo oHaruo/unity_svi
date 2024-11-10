@@ -4642,8 +4642,11 @@ GameObject:
   - component: {fileID: 449484358}
   - component: {fileID: 449484361}
   - component: {fileID: 449484362}
+<<<<<<< HEAD
   - component: {fileID: 449484363}
   - component: {fileID: 449484364}
+=======
+>>>>>>> parent of 32f3b72a (캐릭터 인풋시스템 개선)
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -4796,6 +4799,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inputkey: {x: 0, y: 0}
   speed: 3
+<<<<<<< HEAD
 --- !u!114 &449484363
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4847,6 +4851,8 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+=======
+>>>>>>> parent of 32f3b72a (캐릭터 인풋시스템 개선)
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
